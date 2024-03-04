@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
-title,Title-booboo,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+objectid,Object Id,,
+youtubeid,YouTube Id,,
+title,Title,true,,
+filename,File Name,,
+format,Format,,
+creator,Creator,true,,
+date,Date,,
+datecreated,Date Created,,
+description,Description,,
+image_alt_text,Alt Text,,
+subject,Subject,,
+location,Location,true,
+source,Source,true,
+type,Work Type,true,
+language,Language,true,
+rights,Rights Statement,,true
+creativecommons,Creative Commons License,,true
+citation,Citation,,true
