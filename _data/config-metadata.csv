@@ -10,9 +10,9 @@ description,Description,,
 image_alt_text,Alt Text,,
 subject,Subjects,true,
 location,Location,,
-source,Source,,true
+source,Source,,
 citation,Citation,,
 type,Work Type,,
 language,Language,,
-rights,Rights Statement,,true
-creativecommons,Creative Commons License,,true
+rights,Rights Statement,,
+creativecommons,Creative Commons License,,
